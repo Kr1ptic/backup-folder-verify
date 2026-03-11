@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\repos\\backup-folder-verify\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20BEE14F-6503-4EC6-9604-4ADA3C2C9485}|backup-folder-verify\\backup-folder-verify.vcxproj|D:\\repos\\backup-folder-verify\\backup-folder-verify\\backup-folder-verify.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{20BEE14F-6503-4EC6-9604-4ADA3C2C9485}|backup-folder-verify\\backup-folder-verify.vcxproj|solutionrelative:backup-folder-verify\\backup-folder-verify.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "backup-folder-verify.cpp",
+              "DocumentMoniker": "D:\\repos\\backup-folder-verify\\backup-folder-verify\\backup-folder-verify.cpp",
+              "RelativeDocumentMoniker": "backup-folder-verify\\backup-folder-verify.cpp",
+              "ToolTip": "D:\\repos\\backup-folder-verify\\backup-folder-verify\\backup-folder-verify.cpp",
+              "RelativeToolTip": "backup-folder-verify\\backup-folder-verify.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-11T15:23:59.568Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
