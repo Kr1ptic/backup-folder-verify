@@ -3,5 +3,5 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="backup-folder-verify/backup-folder-verify.vcxproj" />
+  <Project Path="backup-folder-verify/backup-folder-verify.vcxproj" Id="20bee14f-6503-4ec6-9604-4ada3c2c9485" />
 </Solution>

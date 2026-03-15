@@ -1,2 +1,3 @@
-﻿  backup-folder-verify.cpp
-  backup-folder-verify.vcxproj -> D:\repos\backup-folder-verify\x64\Debug\backup-folder-verify.exe
+﻿  init.cpp
+init.obj : error LNK2005: "void __cdecl Init(void)" (?Init@@YAXXZ) already defined in backup-folder-verify.obj
+D:\repos\backup-folder-verify\x64\Debug\backup-folder-verify.exe : fatal error LNK1169: one or more multiply defined symbols found

@@ -2,10 +2,16 @@
 //
 
 #include <iostream>
+#include "init.h"
+#include "init.cpp"
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    File file("/opt/data/var", "2sldfihsdfosdf");
+    
+    file.print();
+
+    Init();
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
