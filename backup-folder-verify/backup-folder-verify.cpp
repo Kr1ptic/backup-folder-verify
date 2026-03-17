@@ -3,13 +3,12 @@
 
 #include <iostream>
 #include "init.h"
-#include "init.cpp"
 
 int main()
 {
     File file("/opt/data/var", "2sldfihsdfosdf");
     
-    file.print();
+    //file.print();
 
     Init();
 }

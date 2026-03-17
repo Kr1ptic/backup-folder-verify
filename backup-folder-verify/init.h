@@ -2,6 +2,7 @@
 #include <iostream>
 
 void Init();
+void ScanDirectory();
 
 class File {
 private:
