@@ -87,3 +87,6 @@ backup-folder-verify/x64/Debug/vc145.idb
 *.db
 *.vsidx
 *.db
+*.json
+*.db
+/.vs
