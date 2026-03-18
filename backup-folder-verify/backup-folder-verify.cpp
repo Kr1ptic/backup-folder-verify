@@ -4,12 +4,10 @@
 #include <iostream>
 #include "init.h"
 
+bool debug = true;
+
 int main()
 {
-    File file("/opt/data/var", "2sldfihsdfosdf");
-    
-    //file.print();
-
     Init();
 }
 
